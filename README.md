@@ -74,7 +74,7 @@ Focus: Machine Learning, Deep Learning, Data Engineering, Cloud Computing
 
 - 💼 **LinkedIn:** [linkedin.com/in/priyadharshan-sengutuvan](linkedin.com/in/priyadharshan-sengutuvan)
 - 📧 **Email:** [priyadharshansenguttuvan@gmail.com](mailto:priyadharshansenguttuvan@gmail.com)
-- 🌐 **Portfolio:** [https://priyadharshan-sengutuvan.vercel.app]([YOUR_PORTFOLIO_URL](https://priyadharshan-sengutuvan.vercel.app))
+- 🌐 **Portfolio:** [https://priyadharshan-sengutuvan.vercel.app](https://priyadharshan-sengutuvan.vercel.app)
 
 ---
 
